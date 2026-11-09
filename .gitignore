@@ -1,0 +1,26 @@
+# Browser profile session data (QUAN TRỌNG: Tránh lộ tài khoản Facebook khi đẩy lên GitHub)
+profiles/
+*.session
+*.cookies
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Media cá nhân (người dùng tự thêm vào thư mục media/)
+media/*
+!media/.gitkeep
+
+# Dữ liệu nhóm riêng tư (nếu muốn giữ mẫu thì giữ .gitkeep)
+data/*.txt
+!data/.gitkeep
+!data/example_groups.txt
+
+# Log và hệ thống
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+# Thêm mỗi dòng 1 link nhóm Facebook bạn muốn đăng bài.
+# Dòng bắt đầu bằng dấu '#' sẽ được bỏ qua.
+https://www.facebook.com/groups/example_group_1
+https://www.facebook.com/groups/example_group_2
